@@ -1,1 +1,10 @@
-.title{color: yellow}
+h1 {
+	text-align: center;
+	font-family: "Calibri Light";
+	font-size: 18px;
+	color: purple;
+}
+
+p {style="text-align:left;"}
+
+/* span {style="float:right;"} */
